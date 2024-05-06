@@ -12,52 +12,101 @@ summary: "My experience with ITM 352."
 ---
 
 Course Goals ITM 352 has the following goals:
+
 1.1 Acquiring basic programming skills in an IT context.
+
 Throughout this course we have learned how to do basic programming and make simple web pages by using JavaScript. I’ve learned how to use variables, loops, functions, and much more (not well but enough to survive/understand the concept). We’ve gone through a lot over our semester-long course and have done so much with it, whether that be WODs, labs, or assignments. I knew I made it when I was able to program (even with the help of ChatGPT), understand what I wrote, and have it actually work on my webpage. 
+
 1.2 Understanding why MIS people need basic programming skills and knowledge.
+
 MIS people need some basic programming skills and knowledge because like Professor Port said at the beginning of the semester “we’re most likely not going to use it in our jobs after college, but it is great to know!” (not exactly what he said but along those lines). In the chances that we do need to look over code in our future jobs or even tweak things a little to make them better we would have some knowledge on it. If we ever need to have conversations with the IT specialists or CS people we would be able to keep up and not be completely lost. I think it’s great to have the basics for coding especially because it’s such a valuable skill to have. With technology advancing it might even be a requirement for intermediate level schools to teach kids soon.
+
 1.3 Gaining hands-on experience in developing software applications.
+
 Assignment 1 was a big step for me as we are now being shown what we need to do and do it on your own. It was all the things we’ve learned from weeks prior all being put into an assignment showcasing what we’ve learnt throughout the course. This was amazing to see how far I’ve gotten and how much I was able to do on my own. 
+
 1.4 Experiencing first-hand MIS problems and solutions
+
 There were so many times throughout this semester where my brain felt like it was fried. Sometimes it was small mistakes like missing a comma, or misspelling a word. Majority of the time it was figuring out where to place things or how to translate the code into something the computer could understand. It was a great experience because it taught me how to be a problem solver and also research how to do certain things I didn’t understand.
+
 1.5 Experiencing and understanding first-hand project management, working in teams, software development issues.
+
 A great tip that Professor Port had was to comment out the things you need to complete before starting your code. It helps with planning out what you need to do and staying organized. I also know to put a lot of time aside for this class as coding is very challenging for me. There have been so many instances where I thought the code would be easy and it ends up taking me a whole 2 days to figure out a small problem. It was a great wake up call to get things started earlier than early.
+
 1.6 Gaining confidence in addressing MIS problems.
+
 This took me a while as I was scared that if I messed up my code I wouldn’t know how to fix it or how to go back to that point where it was working. To be really honest it took me more than half the semester to get comfortable with trial and error. Once I gained that confidence to try things it became a lot easier to problem solve. I wasn’t so scared of messing things up but more interested in how to fix the problem. 
+
 Course Elements and Personal Engagement
+
 2.1 What did you learn from creating a professional portfolio and using it in ITM 352?
+
 I was excited to have a professional portfolio (E0) since I have a place to reference in interviews. It has a link to my linkedin profile, social media handles, and github profile. It’s a great way to show future interviewers that I have had experience with coding and even have a working portfolio to show them previous projects, experiences and handles.
+
 2.2 What did you gain from doing the WODs?
+
 I probably gained a lot of white hair from WODs, but I did learn a lot from them. It made me think of how to do things on my own without the help of an instructor and how to do it efficiently (since we are timed). This gave me a lot of anxiety in the beginning but eventually led me to the realization that this is to better my skills in coding and it’s okay if I have to keep doing it over and over until I get it right. 
+
 2.3 Were the quizzes helpful in preparing you for the labs?
+
 I don’t think the quizzes helped me much with preparing for the labs. If anything I had a lot more understanding when we went through some of the things we should know about the lab before we started working on it during class. 
+
 2.4 What did you learn from doing the labs?
+
 I really liked when we followed along with Professor Port in the labs. I struggled when we started to do more of the work at home (which I get since we won’t always have someone there to guide us). Though the labs were where I was able to get an understanding of our future WODs/assignments. I was able to eventually work things out on my own which is the whole point of having those take home portions of the lab.
+
 2.5 What did you learn from doing the essays?
+
 I was able to reflect on recent work we’ve done throughout the class. It was a great way to see how far I’ve gone and gave me a little confidence boost in the class. It showed me that even though I’m having a tough time, I am moving forward and hitting these milestones during the semester. 
+
 2.6 What did you learn from doing Assignment 1 and Assignment 2?
+
 I’ve learned how to make my own webpage (with the help of Professor Port and ChatGPT). I was able to apply all the things I learned throughout the semester and make a website that doesn’t look half bad, and works! Assignment 1 was building the foundation of the webpage while assignment 2 was focused on making it better and getting it to work a little more similar to an actual website. 
+
 Challenges and Achievements:
+
 3.1 Detail the specific challenges you encountered during the course, such as understanding new programming concepts, completing WODs, web application development assignments.
+
 I had a really tough time at the beginning of the semester as I was away from school for a while. I had a hard time just understanding how coding works in terms of translating it to the computer and how I could make it work for me. I still have a difficult time with loops so I try to study it on my own time but it was one of the more challenging concepts for me to grasp. WODs as I mentioned previously gave me anxiety as I was scared of failure and having to repeat it. Web application development assignments gave me a tough time figuring out all the small details of the assignment and loops!
+
 3.2 Explain how you overcame these challenges and the strategies that helped you succeed.
+
 I had to really manage time well as I had a lot of catching up to do with all of my classes. As for understanding concepts I had to RTFM a lot. I would constantly rewatch the recordings of the class to hear how Professor Port explained something. I would also ask ChatGPT or research certain topics I had difficulty understanding. Loops is still difficult for me so as of now I am still researching it and watching youtube videos on people explaining it in a more dumbed down version. As for WODs I just had to get over my anxiety and try it. I just had to learn that it’s okay not to get it right the first time as long as I keep trying. As for the assignments I think it was just a lot of trial and error. Also getting comfortable with asking ChatGPT questions.
+
 3.3 Highlight any particular achievements or milestones in the course that were significant to you.
+
 I didn’t think I would like coding. But the first time I was able to code something completely on my own, understand it, and actually have it work when I executed it… It gave me such a euphoric feeling. It gave me that sense of accomplishment and just amazement that I was actually able to do it. It wasn’t anything difficult or crazy but just the fact that I was able to understand it and put it to use was what amazed me. 
+
 Skill Development and Application
+
 4.1 Reflect on the three skill levels outlined in the course (syntactic, algorithmic, application) and discuss your progression through these levels.
-I felt most aware during the syntactic part of the course. I was learning a lot through this portion. Algorithmic was when I was having a difficult time as I was trying to figure out how to work things out on my own. Application was still a little difficult to me as I had a hard time during the algorithmic portion. I was able to eventually do it but it took a lot of hours and questions/research to get there. 
+
+I felt most focused/aware during the syntactic part of the course. I was learning a lot through this portion. Algorithmic was when I was having a difficult time as I was trying to figure out how to work things out on my own. Application was still a little difficult to me as I had a hard time during the algorithmic portion. I was able to eventually do it but it took a lot of hours and questions/research to get there. 
+
 4.2 Describe how the hands-on experience with web-based e-service applications enhanced your understanding and confidence in handling MIS issues.
-Hands-on experience helped me a lot since it forced me to think about things in different ways. By doing the code and learning about it during class (and outside) I was able to understand things at a deeper level. I was able to understand the process of code and figuring out what the computer doesn’t understand (which is a lot surprisingly). After going through this class I can say I have a lot more confidence than I did before taking it. 
+
+Hands-on experience helped me a lot since it forced me to think about things in different ways. By doing the code and learning about it during class (and outside) I was able to understand things at a deeper level. I was able to understand the process of code and figuring out what the computer doesn’t understand (which is a lot surprisingly). After going through this class I can say I have a lot more confidence than I did before taking it.
+
 Use of AI (e.g. ChatGBT)
+
 5.1 Discuss how use of AI enhanced your learning and productivity. Give specific examples of how you used AI effectively.
+
 When I ran into a problem and my code stopped working. I would spend hours combing through it and trying to figure out where I went wrong. After a couple hours I would ask ChatGPT to figure out what’s wrong with my code… It would then tell me I’ve misspelled a word. Sometimes it was more to it but majority of the time it was stupid mistakes. As for the bigger problems, like with assignment 2 I couldn’t figure out how to transfer the information from one page to the next, and then to the final. With the help of ChatGPT I was able to figure out a way to transfer the codes from page to page without losing the original input. ChatGPT was very useful to me as I always have a lot of questions. I used it as a little helper to check my work when things weren’t working and to give me ideas to make my code better. 
+
 5.2 Discuss how use of AI inhibited your learning or and productivity. Give specific examples of how you used AI ineffectively.
+
 I don’t believe that the use of AI inhibited my learning. If anything, when I didn’t understand something I would ask ChatGPT to make it easier for me to understand. I was able to ask questions during the early morning hours when everyone was probably sleeping which was a great help. I don’t think it hindered my learning or productivity much.
+
 Future Implications and Professional Growth
+
 6.1 Explore how the skills and knowledge gained from ITM 352 can be applied in your future academic and professional endeavors.
+
 In the chances that I need to know how to code I will at least have the basics down. Even though I struggled a lot with it, I know that in the future I’ll probably take more coding classes to keep up with the demand. It will really help me when I have to talk with other IT/CS professionals and also just give a solid foundation to coding and understanding it better. 
+
 6.2 Discuss the potential impacts these skills will have on your career, especially in terms of understanding and addressing MIS problems.
+
 I think that even though this class was focused on coding, what I got out of it was some coding but a lot more problem solving. I didn’t think I would make it through this course because of how difficult people have made it out to be. It is really difficult but I was able to push through and find this side of me that didn’t want to give up. I not only will have a basic understanding of how to program but also how to problem solve. This is highly important for anyone with MIS problems because as Professor Port said at the beginning of the semester “we will be the ones solving problems. There will be no one there to guide you through it like in other departments of business”. 
+
 6.3 Reflect on the overall value of the course in your educational journey and future career.
+
 Even though I had a difficult time in this course I do believe that it gave me a lot more in return. It gave me that confidence I lacked at the beginning, it helped me get comfortable with failure, and it also gave me some coding skills that helped me make a webpage of my own. This course was definitely the hardest course I’ve taken yet as I’ve had zero experience with coding but it was very memorable. It was a rollercoaster of emotions but I’m glad I got to experience it. This will definitely be an asset to bring to my future career (this is the stepping stone to more coding classes in the future I hope). It taught me a lot about myself and about technology. I think it’s also intrigued me because now everytime I see any sort of technology like a GPS on a phone, I think about how much code goes into it or what kind of code is written in it. It’s been a crazy time but a great one. 
